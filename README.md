@@ -3,6 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Software+Quality+Engineer;QA+Automation+Engineer;Selenium+%7C+Playwright+%7C+Java;Always+learning+new+tools+%26+frameworks)](https://git.io/typing-svg)
 
 ---
+---
+
+## 🌟 Highlights
+
+- 🚀 Passionate about **Software Quality Assurance & Automation Testing**  
+- 🛠️ Hands-on with **Java, Selenium, Playwright, TestNG, JUnit, Maven**  
+- 🔗 Integrated **Jira API & Bugzilla API** into automation frameworks  
+- 📚 Currently learning **Java for Testing & Framework Development**  
+- 💡 Strong interest in **Test Automation, QA, and Software Engineering**  
+
+---
 
 💻 I’m passionate about **Automation Testing, Java, Selenium, and Playwright**.  
 🌱 Currently learning **Java for Testing and Framework Development**.  
