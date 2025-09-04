@@ -58,7 +58,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chandankumarnanand&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandankumarnanand&layout=compact&theme=radical)
 
----
+-------------
 
 ### 🤝 Connect with me:
 <a href="mailto:chandankumarnanand@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
