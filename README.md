@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=500&lines=Software+Quality+Engineer;QA+Automation+Engineer;Selenium+%7C+Playwright+%7C+Java;Always+learning+new+tools+%26+frameworks)](https://git.io/typing-svg)
 
----
+----
 
 ### 📊 Profile Analytics
 ![Profile Views](https://komarev.com/ghpvc/?username=chandankumarnanand&label=Profile%20Views&color=0e75b6&style=flat)  
