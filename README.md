@@ -1,8 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&width=500&lines=Hi+there+👋;I'm+Chandan;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Software+Quality+Engineer;QA+Automation+Engineer;Selenium+%7C+Playwright+%7C+Java;Always+learning+new+tools+%26+frameworks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=500&lines=Software+Quality+Engineer;QA+Automation+Engineer;Selenium+%7C+Playwright+%7C+Java;Always+learning+new+tools+%26+frameworks)](https://git.io/typing-svg)
 
 ---
+
+### 📊 Profile Analytics
+![Profile Views](https://komarev.com/ghpvc/?username=chandankumarnanand&label=Profile%20Views&color=0e75b6&style=flat)  
+![Followers](https://img.shields.io/github/followers/chandankumarnanand?label=Followers&style=flat&color=blue)  
+![Stars](https://img.shields.io/github/stars/chandankumarnanand?label=Stars&style=flat&color=yellow)  
+![Repos](https://img.shields.io/badge/Public%20Repos-10-green?style=flat)  
+
 ---
 
 ## 🌟 Highlights
@@ -19,12 +26,6 @@
 🌱 Currently learning **Java for Testing and Framework Development**.  
 🚀 Exploring **Jira API and Bugzilla API Integration** in my automation framework.  
 📚 Love to share knowledge about **Test Automation, QA, and Software Engineering**.  
-
----
-
-### 🔗 How to reach me:
-- 📧 Email: [chandankumarnanand@gmail.com](mailto:chandankumarnanand@gmail.com)  
-- 💼 LinkedIn: [Chandan Kumar](https://www.linkedin.com/in/chandan-kumar1012/)  
 
 ---
 
