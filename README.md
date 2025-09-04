@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Chandan 👋
 
-<!--
-**chandankumarnanand/chandankumarnanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m passionate about **Automation Testing, Java, Selenium, and Playwright**.  
+🌱 Currently learning **Java for Testing and Framework Development**.  
+🚀 Exploring **Jira API and Bugzilla API Integration** in my automation framework.  
+📚 Love to share knowledge about **Test Automation, QA, and Software Engineering**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 How to reach me:
+- 📧 Email: [chandankumarnanand@gmail.com](mailto:chandankumarnanand@gmail.com)  
+- 💼 LinkedIn: [Chandan Kumar](https://www.linkedin.com/in/chandan-kumar1012/)  
+
+---
+
+### ⚡ Languages and Tools:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandankumarnanand&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandankumarnanand&layout=compact&theme=radical)
+
+---
+
+⭐️ *“Passionate about building reliable test automation frameworks and ensuring software quality.”*  
