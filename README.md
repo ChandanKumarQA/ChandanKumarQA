@@ -1,9 +1,8 @@
-# Hi there 👋, I'm Chandan  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&width=500&lines=Hi+there+👋;I'm+Chandan;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Software+Quality+Engineer;Automation+Testing+Enthusiast;Selenium+%7C+Playwright+%7C+Java;Always+learning+new+tools+%26+frameworks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Software+Quality+Engineer;QA+Automation+Engineer;Selenium+%7C+Playwright+%7C+Java;Always+learning+new+tools+%26+frameworks)](https://git.io/typing-svg)
 
 ---
-
 
 💻 I’m passionate about **Automation Testing, Java, Selenium, and Playwright**.  
 🌱 Currently learning **Java for Testing and Framework Development**.  
