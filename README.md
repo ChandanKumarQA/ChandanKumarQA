@@ -54,9 +54,9 @@
 ---
 
 ### 📊 GitHub Analytics:
-![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandankumarnanand&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chandankumarnanand&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandankumarnanand&layout=compact&theme=radical)
+![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChandanKumarQA&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChandanKumarQA&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanKumarQA&layout=compact&theme=radical)
 
 -------------
 
